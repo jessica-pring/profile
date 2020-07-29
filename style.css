@@ -2,21 +2,16 @@ body {
   background: #FFFCFF;
   color: #24737F;
   font-family: 'Lora', serif;
-  font-size: 17px;
+  font-size: 18px;
 }
 
-h1, h2 {
+h1 {
   font-family: 'Roboto', sans-serif;
   font-weight: 900;
-  color: #24737F;
-}
-
-#introduction h1 {
-  color: #24737F;
+  color: #ff6b6b;
 }
 
 h2 {
-  color: #ff6b6b;
   font-size: 24px;
 }
 
@@ -61,11 +56,13 @@ h2 {
 }
 
 #introduction p {
-  margin-bottom: 40px;
+  margin-bottom: 20px;
+  font-size: 18px;
+  padding: 12px;
 }
 
 .img-circle {
-  width: 150px;
+  width: 250px;
   border-radius: 50%;
 }
 
